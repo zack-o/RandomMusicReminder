@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="800" viewBox="0 0 1120 800">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="48" y="77.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="34" font-weight="600" fill="#17243A" text-anchor="start">组件，用一致的方式表达结果</text>
+<text x="48" y="121.7" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="17" font-weight="400" fill="#56657C" text-anchor="start">默认 / 选中 / 禁用 / 错误 / 加载 / 成功</text>
+<rect x="48" y="174" width="304" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="200.0" y="207.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">保存并启用提醒</text>
+<rect x="48" y="244" width="304" height="56" rx="18" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="200.0" y="277.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#355EDB" text-anchor="middle">继续编辑</text>
+<rect x="48" y="314" width="304" height="56" rx="18" fill="#E2E7F1" stroke="none" stroke-width="1"/>
+<text x="200.0" y="347.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#56657C" text-anchor="middle">请先填写事件名称</text>
+<rect x="48" y="384" width="304" height="56" rx="18" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="200.0" y="417.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#355EDB" text-anchor="middle">正在保存…</text>
+<text x="424" y="195.8" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="18" font-weight="600" fill="#17243A" text-anchor="start">选项与切换</text>
+<rect x="424" y="219" width="76" height="36" rx="12" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="462.0" y="241.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="600" fill="#355EDB" text-anchor="middle">全部</text>
+<rect x="511" y="219" width="94" height="36" rx="12" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="558.0" y="241.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="middle">已暂停</text>
+<rect x="616" y="219" width="114" height="36" rx="12" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="673.0" y="241.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="middle">仅工作日</text>
+<rect x="424" y="297" width="54" height="30" rx="15" fill="#355EDB" stroke="none" stroke-width="1"/>
+<circle cx="462.0" cy="312.0" r="11.0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="494" y="318.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="400" fill="#17243A" text-anchor="start">开启</text>
+<rect x="600" y="297" width="54" height="30" rx="15" fill="#DCE2ED" stroke="none" stroke-width="1"/>
+<circle cx="615.0" cy="312.0" r="11.0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="670" y="318.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="400" fill="#17243A" text-anchor="start">关闭</text>
+<text x="424" y="405.9" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="19" font-weight="600" fill="#17243A" text-anchor="start">状态必须说明原因和下一步</text>
+<rect x="424" y="435" width="640" height="86" rx="16" fill="#FDEBEC" stroke="none" stroke-width="1"/>
+<text x="442" y="467.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#B84444" text-anchor="start">事件名称不能为空</text>
+<text x="442" y="495.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#17243A" text-anchor="start">填写一个名称，方便响铃时识别这件事。</text>
+<rect x="48" y="579" width="1016" height="133" rx="20" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="70" y="618.0" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="20" font-weight="600" fill="#17243A" text-anchor="start">语义一致</text>
+<text x="70" y="656.7" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="17" font-weight="400" fill="#56657C" text-anchor="start">结束本次提醒 ≠ 完成事件；暂停事件 ≠ 删除事件；停止试听 ≠ 改变提醒音量。</text>
+<text x="70" y="690.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="400" fill="#56657C" text-anchor="start">所有仅手势操作都有可点击替代入口；破坏操作必须点明对象与影响。</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">切换时间方式</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">不会把原来的多提醒点悄悄叠加</text>
+<rect x="24" y="157" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="189.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">当前固定安排</text>
+<text x="40" y="212.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">10:00发生；09:50和10:00各提醒一次</text>
+<rect x="24" y="272" width="364" height="112" rx="16" fill="#FFF1DC" stroke="none" stroke-width="1"/>
+<text x="40" y="301.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#91601F" text-anchor="start">将改为窗口内1次随机主提醒</text>
+<text x="40" y="324.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">原提醒点配置会暂存，当前不同时生效。切回固定模式可恢</text>
+<text x="40" y="341.59999999999997" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">复。</text>
+<rect x="24" y="428" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="460.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">目标时间窗口</text>
+<text x="40" y="483.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">08:00–08:10，稍后和固定补充关闭</text>
+<text x="24" y="595.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#56657C" text-anchor="start">切换会改变未来安排，请核对日期、重复与音乐。</text>
+<rect x="24" y="734" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="767.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">确认切到随机一次模式</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#355EDB" text-anchor="middle">继续使用固定多提醒点</text>
+</svg>

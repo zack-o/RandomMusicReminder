@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">乐醒</string>
+    <string name="channel_gentle_name">温和提醒</string>
+    <string name="channel_gentle_description">普通事件提醒和音乐播放控制</string>
+    <string name="channel_strong_name">强提醒</string>
+    <string name="channel_strong_description">用户明确启用的强提醒</string>
+</resources>

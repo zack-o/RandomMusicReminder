@@ -1,0 +1,106 @@
+{
+  "result": "PASS",
+  "scope": "Design arithmetic and wording examples only. No Android scheduler, randomness generator, API request, device, or waking-effect test was executed.",
+  "cases": [
+    {
+      "name": "08:00-08:10 inclusive candidates",
+      "actual": 11,
+      "expected": 11,
+      "passed": true
+    },
+    {
+      "name": "first candidate",
+      "actual": 480,
+      "expected": 480,
+      "passed": true
+    },
+    {
+      "name": "last candidate",
+      "actual": 490,
+      "expected": 490,
+      "passed": true
+    },
+    {
+      "name": "uniform mean minute",
+      "actual": 485.0,
+      "expected": 485.0,
+      "passed": true
+    },
+    {
+      "name": "new plan at 08:05:30 has 5 future candidates",
+      "actual": 5,
+      "expected": 5,
+      "passed": true
+    },
+    {
+      "name": "remaining first candidate is 08:06",
+      "actual": 486,
+      "expected": 486,
+      "passed": true
+    },
+    {
+      "name": "at 08:10 no strictly future slot remains",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "23:55-next 00:10 inclusive candidates",
+      "actual": 16,
+      "expected": 16,
+      "passed": true
+    },
+    {
+      "name": "crossing window anchored on Monday starts Monday",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "crossing window ends Tuesday",
+      "actual": 1,
+      "expected": 1,
+      "passed": true
+    },
+    {
+      "name": "sample start Oct 28 is Wednesday",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "name": "sample change Nov 2 starts Monday",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "name": "history actual start delay seconds",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "name": "history playing duration seconds",
+      "actual": 17,
+      "expected": 17,
+      "passed": true
+    },
+    {
+      "name": "example handled windows",
+      "actual": 7,
+      "expected": 7,
+      "passed": true
+    },
+    {
+      "name": "unfilled subjective feedback stays unknown count",
+      "actual": 4,
+      "expected": 4,
+      "passed": true
+    }
+  ],
+  "caseCount": 16,
+  "actualSchedulerTested": false,
+  "wakingEffectTested": false,
+  "thirdPartyApiCalled": false
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">这次请求没有完成</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">输入与已生成的草稿都已保留</text>
+<rect x="24" y="159" width="364" height="112" rx="16" fill="#FFF1DC" stroke="none" stroke-width="1"/>
+<text x="40" y="188.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#91601F" text-anchor="start">等待服务响应超时</text>
+<text x="40" y="211.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">本次没有写入任何事件。可以稍后重试，或直接手动创建提</text>
+<text x="40" y="228.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">醒。</text>
+<rect x="24" y="311" width="364" height="168" rx="18" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="42" y="349.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">保留的输入</text>
+<text x="42" y="397.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#17243A" text-anchor="start">每周二、四晚上八点练英语，</text>
+<text x="42" y="420.8" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#17243A" text-anchor="start">提前十分钟和准时各提醒一次。</text>
+<rect x="24" y="524" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="556.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">查看AI连接</text>
+<text x="40" y="579.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">核对服务地址、模型和权限</text>
+<path d="M 361.5 554.0 L 366.5 559.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 366.5 559.0 L 361.5 564.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<text x="24" y="678.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="400" fill="#56657C" text-anchor="start">重试前再次确认发送内容。</text>
+<text x="24" y="698.6999999999999" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="400" fill="#56657C" text-anchor="start">不自动重复请求或切换服务。</text>
+<rect x="24" y="734" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="767.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">重新预览发送内容</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#355EDB" text-anchor="middle">转为手动创建</text>
+</svg>

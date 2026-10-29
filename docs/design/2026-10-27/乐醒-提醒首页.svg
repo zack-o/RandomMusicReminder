@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="390" height="844" viewBox="0 0 390 844">
+  <title>乐醒 · 提醒首页</title>
+  <desc>可编辑的UI设计矢量稿。主页面只通过底部导航切换，创建提醒四个分区支持点击和左右滑动。</desc>
+  <g id="screen" inkscape:label="提醒首页">
+    <rect id="background" x="0" y="0" width="390" height="844" rx="24" fill="#F4F7F9"/>
+    <g id="status-bar" inkscape:label="系统状态栏" fill="#14292C" font-family="Noto Sans SC, sans-serif" font-size="12">
+      <text id="status-time" x="24" y="22">9:41</text>
+      <text id="status-signal" x="315" y="22">5G ▰</text>
+    </g>
+    <g id="page-header" inkscape:label="页头">
+      <text id="date" x="20" y="59" fill="#52696C" font-family="Noto Sans SC, sans-serif" font-size="12">10月27日 周二 · 乐醒</text>
+      <text id="page-title" x="20" y="90" fill="#14292C" font-family="Noto Sans SC, sans-serif" font-size="28" font-weight="700">提醒</text>
+      <g id="create-reminder" inkscape:label="新建提醒按钮">
+        <rect x="246" y="44" width="124" height="52" rx="12" fill="#20645F"/>
+        <text x="308" y="76" text-anchor="middle" fill="#FFFFFF" font-family="Noto Sans SC, sans-serif" font-size="15" font-weight="500">＋ 新建提醒</text>
+      </g>
+    </g>
+    <g id="next-reminder" inkscape:label="下一次提醒">
+      <rect x="20" y="128" width="350" height="98" rx="16" fill="#E5F1EE"/>
+      <text x="32" y="151" fill="#20645F" font-family="Noto Sans SC, sans-serif" font-size="12">下一次提醒</text>
+      <text id="next-time" x="32" y="203" fill="#20645F" font-family="Roboto, sans-serif" font-size="44" font-weight="500">14:45</text>
+      <text x="176" y="179" fill="#14292C" font-family="Noto Sans SC, sans-serif" font-size="18" font-weight="500">项目周会</text>
+      <text x="176" y="202" fill="#52696C" font-family="Noto Sans SC, sans-serif" font-size="12">提前15分钟 · 温和</text>
+    </g>
+    <g id="reminder-filters" inkscape:label="提醒筛选" font-family="Noto Sans SC, sans-serif" font-size="15" text-anchor="middle">
+      <rect x="20" y="238" width="111" height="48" rx="12" fill="#E5F1EE"/>
+      <text x="75.5" y="268" fill="#20645F">全部</text>
+      <rect x="139" y="238" width="111" height="48" rx="12" fill="#FFFFFF"/>
+      <text x="194.5" y="268" fill="#52696C">已启用</text>
+      <rect x="258" y="238" width="112" height="48" rx="12" fill="#FFFFFF"/>
+      <text x="314" y="268" fill="#52696C">已暂停</text>
+    </g>
+    <g id="event-meeting" inkscape:label="项目周会">
+      <rect x="20" y="298" width="350" height="116" rx="16" fill="#FFFFFF"/>
+      <text x="32" y="345" fill="#14292C" font-family="Roboto, sans-serif" font-size="32" font-weight="500">15:00</text>
+      <text x="128" y="340" fill="#14292C" font-family="Noto Sans SC, sans-serif" font-size="17" font-weight="500">项目周会</text>
+      <g id="meeting-enabled" inkscape:label="已启用"><rect x="298" y="318" width="52" height="32" rx="16" fill="#20645F"/><circle cx="334" cy="334" r="12" fill="#FFFFFF"/></g>
+      <text x="32" y="376" fill="#52696C" font-family="Noto Sans SC, sans-serif" font-size="12">每周二、四 · 3个提醒点</text>
+      <text x="32" y="397" fill="#20645F" font-family="Noto Sans SC, sans-serif" font-size="12">提前1天 / 15分钟 / 准时</text>
+    </g>
+    <g id="event-walk" inkscape:label="散步">
+      <rect x="20" y="426" width="350" height="116" rx="16" fill="#FFFFFF"/>
+      <text x="32" y="473" fill="#14292C" font-family="Roboto, sans-serif" font-size="32" font-weight="500">18:30</text>
+      <text x="128" y="468" fill="#14292C" font-family="Noto Sans SC, sans-serif" font-size="17" font-weight="500">散步</text>
+      <g id="walk-enabled" inkscape:label="已启用"><rect x="298" y="446" width="52" height="32" rx="16" fill="#20645F"/><circle cx="334" cy="462" r="12" fill="#FFFFFF"/></g>
+      <text x="32" y="504" fill="#52696C" font-family="Noto Sans SC, sans-serif" font-size="12">每天 · 温和提醒</text>
+      <text x="32" y="525" fill="#20645F" font-family="Noto Sans SC, sans-serif" font-size="12">下次 今天18:30 · 随机音乐</text>
+    </g>
+    <g id="event-payment" inkscape:label="缴费（已暂停）">
+      <rect x="20" y="554" width="350" height="116" rx="16" fill="#FFFFFF"/>
+      <text x="32" y="601" fill="#52696C" font-family="Roboto, sans-serif" font-size="32" font-weight="500">09:00</text>
+      <text x="128" y="596" fill="#52696C" font-family="Noto Sans SC, sans-serif" font-size="17" font-weight="500">缴费</text>
+      <g id="payment-disabled" inkscape:label="已暂停"><rect x="298" y="574" width="52" height="32" rx="16" fill="#D9E2E4"/><circle cx="314" cy="590" r="10" fill="#52696C"/></g>
+      <text x="32" y="632" fill="#52696C" font-family="Noto Sans SC, sans-serif" font-size="12">每月28日 · 2个提醒点</text>
+      <text x="32" y="653" fill="#52696C" font-family="Noto Sans SC, sans-serif" font-size="12">已暂停 · 配置已保留</text>
+    </g>
+    <g id="bottom-navigation" inkscape:label="底部导航（仅点击切换）">
+      <path d="M0 760H390V844H0Z" fill="#FFFFFF"/>
+      <path d="M0 760H390" stroke="#D9E2E4"/>
+      <rect x="35.75" y="767" width="56" height="32" rx="16" fill="#E5F1EE"/>
+      <g id="nav-reminders" inkscape:label="导航-提醒" stroke="#20645F" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="63.75" cy="783" r="9"/><path d="M63.75 778V783L68 786M55 773L52 777M72 773L75 777M58 791L56 794M70 791L72 794"/>
+      </g>
+      <path id="nav-music" inkscape:label="导航-音乐" d="M149 775V788A3.5 3.5 0 1 1 147 785V772H158V776H149Z" fill="#52696C"/>
+      <g id="nav-calendar" inkscape:label="导航-日历" fill="none" stroke="#52696C" stroke-width="1.8" stroke-linecap="round"><rect x="229" y="775" width="20" height="18" rx="2"/><path d="M234 772V778M244 772V778M229 781H249M234 786H238M241 786H245M234 790H238"/></g>
+      <g id="nav-settings" inkscape:label="导航-设置" fill="none" stroke="#52696C" stroke-width="1.8"><circle cx="326.25" cy="783" r="8"/><circle cx="326.25" cy="783" r="3"/><path d="M326.25 771V775M326.25 791V795M314.25 783H318.25M334.25 783H338.25M318 775L321 778M332 788L335 791M318 791L321 788M332 778L335 775"/></g>
+      <g font-family="Noto Sans SC, sans-serif" font-size="12" text-anchor="middle"><text x="63.75" y="815" fill="#20645F">提醒</text><text x="151.25" y="815" fill="#52696C">音乐</text><text x="238.75" y="815" fill="#52696C">日历</text><text x="326.25" y="815" fill="#52696C">设置</text></g>
+      <rect x="139" y="830" width="112" height="4" rx="2" fill="#14292C"/>
+    </g>
+  </g>
+</svg>

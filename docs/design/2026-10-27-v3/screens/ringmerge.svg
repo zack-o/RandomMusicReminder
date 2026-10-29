@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#101B2D"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#F4F7FE" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#F4F7FE" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#F4F7FE" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#F4F7FE" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#F4F7FE" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#F4F7FE" stroke="none" stroke-width="1"/>
+<text x="206.0" y="102.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#ADC2FF" text-anchor="middle">2件事，一起提醒</text>
+<text x="206.0" y="203.8" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="68" font-weight="600" fill="#F4F7FE" text-anchor="middle">10:00</text>
+<rect x="24" y="260" width="364" height="78" rx="16" fill="#1B2A40" stroke="none" stroke-width="1"/>
+<text x="40" y="292.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#F4F7FE" text-anchor="start">项目周会</text>
+<text x="40" y="315.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#B3C0D5" text-anchor="start">准时 · 强提醒1分钟</text>
+<rect x="24" y="350" width="364" height="78" rx="16" fill="#1B2A40" stroke="none" stroke-width="1"/>
+<text x="40" y="382.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#F4F7FE" text-anchor="start">喝水休息</text>
+<text x="40" y="405.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#B3C0D5" text-anchor="start">准时 · 温和30秒</text>
+<circle cx="206.0" cy="509.0" r="39.0" fill="#2B3E67" stroke="none" stroke-width="1"/>
+<circle cx="206.0" cy="509.0" r="26.520000000000003" fill="#ADC2FF" stroke="none" stroke-width="1"/>
+<circle cx="206.0" cy="509.0" r="14.82" fill="#2B3E67" stroke="none" stroke-width="1"/>
+<circle cx="206.0" cy="509.0" r="3.9000000000000004" fill="#1B2A40" stroke="none" stroke-width="1"/>
+<text x="206.0" y="595.9" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="19" font-weight="600" fill="#F4F7FE" text-anchor="middle">缓慢行走</text>
+<text x="206.0" y="629.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#B3C0D5" text-anchor="middle">合并播放一首音乐，按较强方式提醒</text>
+<rect x="24" y="704" width="364" height="64" rx="18" fill="#ADC2FF" stroke="none" stroke-width="1"/>
+<text x="206.0" y="741.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#14233D" text-anchor="middle">结束这 2 个提醒</text>
+<rect x="24" y="786" width="364" height="56" rx="18" fill="#1B2A40" stroke="#38485E" stroke-width="1"/>
+<text x="206.0" y="819.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#ADC2FF" text-anchor="middle">选择稍后提醒的事件</text>
+<text x="206.0" y="875.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#B3C0D5" text-anchor="middle">不可稍后的事件会单独说明</text>
+</svg>

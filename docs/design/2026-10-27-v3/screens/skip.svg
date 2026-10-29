@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">跳过今天这次</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">不会改变后续重复规则</text>
+<rect x="24" y="157" width="364" height="130" rx="22" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="44" y="206.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="23" font-weight="600" fill="#17243A" text-anchor="start">项目周会</text>
+<text x="44" y="245.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="400" fill="#56657C" text-anchor="start">10月27日 10:00 · 本次全部提醒点</text>
+<rect x="24" y="325" width="364" height="104" rx="16" fill="#FFF1DC" stroke="none" stroke-width="1"/>
+<text x="40" y="354.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#91601F" text-anchor="start">会取消今天尚未发生的提醒</text>
+<text x="40" y="377.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">09:50 提前10分钟</text>
+<text x="40" y="394.59999999999997" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">10:00 准时提醒</text>
+<text x="24" y="513.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#56657C" text-anchor="start">已响过的历史保留。</text>
+<text x="24" y="535.25" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#56657C" text-anchor="start">若只想停用某个提醒点，请进入编辑。</text>
+<rect x="24" y="734" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="767.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">确认跳过本次</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#355EDB" text-anchor="middle">保留提醒</text>
+</svg>

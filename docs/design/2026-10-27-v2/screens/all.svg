@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">全部事件</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">8个已启用，2个已暂停</text>
+<text x="388" y="87.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#355EDB" text-anchor="end">选择</text>
+<rect x="24" y="154" width="90" height="36" rx="12" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="69.0" y="176.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="600" fill="#355EDB" text-anchor="middle">全部 10</text>
+<rect x="122" y="154" width="94" height="36" rx="12" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="169.0" y="176.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="middle">已启用 8</text>
+<rect x="224" y="154" width="94" height="36" rx="12" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="271.0" y="176.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="middle">已暂停 2</text>
+<rect x="24" y="218" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="250.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">项目周会</text>
+<text x="40" y="273.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">10月27日 10:00 · 2个提醒点</text>
+<rect x="326" y="240" width="46" height="27" rx="14" fill="#355EDB" stroke="none" stroke-width="1"/>
+<circle cx="357.5" cy="253.5" r="9.5" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="24" y="308" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="340.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">午间走一走</text>
+<text x="40" y="363.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">每天 12:30 · 1个提醒点</text>
+<rect x="326" y="330" width="46" height="27" rx="14" fill="#355EDB" stroke="none" stroke-width="1"/>
+<circle cx="357.5" cy="343.5" r="9.5" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="24" y="398" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="430.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">月末账单</text>
+<text x="40" y="453.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">每月31日 18:00 · 缺日跳过</text>
+<rect x="326" y="420" width="46" height="27" rx="14" fill="#355EDB" stroke="none" stroke-width="1"/>
+<circle cx="357.5" cy="433.5" r="9.5" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="24" y="488" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="520.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">英语练习</text>
+<text x="40" y="543.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">每周二、四 20:00 · 2个提醒点</text>
+<rect x="326" y="510" width="46" height="27" rx="14" fill="#DCE2ED" stroke="none" stroke-width="1"/>
+<circle cx="339.5" cy="523.5" r="9.5" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="24" y="605" width="364" height="90" rx="16" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="40" y="634.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#355EDB" text-anchor="start">一次性调整多项事件</text>
+<text x="40" y="657.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">点击“选择”进入批量模式，筛选不会改变启用状态。</text>
+<rect x="24" y="730" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="763.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">新建提醒</text>
+<rect x="0" y="804" width="412" height="88" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<path d="M 0 804 L 412 804" fill="none" stroke="#DCE2ED" stroke-width="1" stroke-linecap="round"/>
+<rect x="31" y="813" width="48" height="30" rx="15" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<rect x="47.583333333333336" y="822.4166666666666" width="12.833333333333332" height="11.0" rx="5.5" fill="#FFFFFF" stroke="#355EDB" stroke-width="1"/>
+<path d="M 46.666666666666664 833.4166666666666 L 61.33333333333333 833.4166666666666" fill="none" stroke="#355EDB" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="54.0" cy="837.0833333333334" r="1.8333333333333333" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="58.0" y="862.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="600" fill="#355EDB" text-anchor="middle">提醒</text>
+<path d="M 148.33333333333334 831.5833333333334 L 148.33333333333334 820.5833333333334" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 148.33333333333334 820.5833333333334 L 158.41666666666666 818.75" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 158.41666666666666 818.75 L 158.41666666666666 829.75" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="146.5" cy="832.5" r="2.75" fill="#56657C" stroke="none" stroke-width="1"/>
+<circle cx="156.58333333333334" cy="830.6666666666666" r="2.75" fill="#56657C" stroke="none" stroke-width="1"/>
+<text x="156.0" y="862.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="middle">音乐</text>
+<rect x="241.75" y="820.5833333333334" width="16.5" height="14.666666666666666" rx="2.75" fill="#FFFFFF" stroke="#56657C" stroke-width="1"/>
+<path d="M 241.75 825.1666666666666 L 258.25 825.1666666666666" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 246.33333333333334 817.8333333333334 L 246.33333333333334 822.4166666666666" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 253.66666666666666 817.8333333333334 L 253.66666666666666 822.4166666666666" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<text x="254.0" y="862.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="middle">日历</text>
+<circle cx="348.0" cy="827.0" r="9.166666666666666" fill="#FFFFFF" stroke="#56657C" stroke-width="1.8"/>
+<circle cx="348.0" cy="827.0" r="3.6666666666666665" fill="#FFFFFF" stroke="#56657C" stroke-width="1.8"/>
+<text x="352.0" y="862.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="middle">设置</text>
+<rect x="148" y="882" width="116" height="4" rx="2" fill="#17243A" stroke="none" stroke-width="1"/>
+</svg>

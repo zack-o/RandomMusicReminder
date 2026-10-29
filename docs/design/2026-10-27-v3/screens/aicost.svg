@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">AI调用记录</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">应用计数不等同服务商完整账单</text>
+<rect x="24" y="157" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="189.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">最近7天</text>
+<text x="40" y="212.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">本机记录5次已发送请求</text>
+<rect x="24" y="247" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="279.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">当前连接</text>
+<text x="40" y="302.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">DeepSeek预设，可随时改回手动操作</text>
+<path d="M 361.5 277.0 L 366.5 282.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 366.5 282.0 L 361.5 287.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="24" y="362" width="364" height="113" rx="16" fill="#FFF1DC" stroke="none" stroke-width="1"/>
+<text x="40" y="391.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#91601F" text-anchor="start">费用以服务商为准</text>
+<text x="40" y="414.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">同一Key在其他软件的花费不在此计数。无法可靠估算时，显</text>
+<text x="40" y="431.59999999999997" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">示费用未知。</text>
+<rect x="24" y="516" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="548.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">调用提醒上限</text>
+<text x="40" y="571.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">达到设定次数后提醒你再次确认</text>
+<text x="368" y="547.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#355EDB" text-anchor="end">自控提示</text>
+<text x="24" y="654.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#56657C" text-anchor="start">不会自动改用更贵模型、跨服务重试或在后台每天调用</text>
+<text x="24" y="676.25" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#56657C" text-anchor="start">模型来抽取闹铃时间。</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#355EDB" text-anchor="middle">查看连接设置</text>
+</svg>

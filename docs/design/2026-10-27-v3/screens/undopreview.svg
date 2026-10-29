@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">撤销本次导入</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">仅作用于09:32这次导入的新增内容</text>
+<rect x="24" y="157" width="364" height="108" rx="16" fill="#FDEBEC" stroke="none" stroke-width="1"/>
+<text x="40" y="186.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#B84444" text-anchor="start">将移除2项新增事件</text>
+<text x="40" y="209.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">项目复盘、周末整理</text>
+<text x="40" y="226.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">对应的未来提醒会一并取消。</text>
+<rect x="24" y="311" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="343.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">保留1项已修改事件</text>
+<text x="40" y="366.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">晨间准备：导入后曾手动编辑</text>
+<path d="M 361.5 341.0 L 366.5 346.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 366.5 346.0 L 361.5 351.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="24" y="401" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="433.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">本次没有应用设置</text>
+<text x="40" y="456.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">外观与提醒默认值保持当前值</text>
+<text x="24" y="564.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#56657C" text-anchor="start">不会移除导入前已有的事件。</text>
+<text x="24" y="587.8000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#56657C" text-anchor="start">不确定的条目默认保留，可逐条核对。</text>
+<rect x="24" y="734" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="767.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">确认撤销这 2 项新增</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#355EDB" text-anchor="middle">保留本次导入</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">确认发送选曲信息</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">只发所选元信息，不附带音频</text>
+<rect x="24" y="157" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="189.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">接收方</text>
+<text x="40" y="212.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">api.deepseek.com · deepseek-flash</text>
+<path d="M 361.5 187.0 L 366.5 192.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 366.5 192.0 L 361.5 197.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="24" y="270" width="364" height="191" rx="18" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="42" y="307.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">这次选择的3首</text>
+<text x="42" y="354.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#17243A" text-anchor="start">清晨的第一束光  03:42</text>
+<text x="42" y="377.8" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#17243A" text-anchor="start">缓慢行走  04:10</text>
+<text x="42" y="401.0" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#17243A" text-anchor="start">窗边的风  02:56</text>
+<rect x="24" y="502" width="364" height="106" rx="16" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="40" y="531.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#355EDB" text-anchor="start">任务内容</text>
+<text x="40" y="554.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">为起床与午间休息提供候选分组，并标记建议仍需本人试听核</text>
+<text x="40" y="571.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">对。</text>
+<text x="24" y="685.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">未选中的音乐、音频内容、歌词和封面不附带。</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">确认发送这3首元信息</text>
+</svg>

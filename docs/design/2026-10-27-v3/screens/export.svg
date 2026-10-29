@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">导出核心数据</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">确认导出范围与文件内容</text>
+<rect x="24" y="156" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="40" y="175" width="21" height="21" rx="6" fill="#355EDB" stroke="none" stroke-width="1"/>
+<path d="M 44.958333333333336 184.5 L 48.916666666666664 188.45833333333334" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 48.916666666666664 188.45833333333334 L 56.83333333333333 179.75" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+<text x="76" y="188.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">事件与提醒点</text>
+<text x="76" y="211.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">10个事件，16个提醒点</text>
+<rect x="24" y="246" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="40" y="265" width="21" height="21" rx="6" fill="#355EDB" stroke="none" stroke-width="1"/>
+<path d="M 44.958333333333336 274.5 L 48.916666666666664 278.4583333333333" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 48.916666666666664 278.4583333333333 L 56.83333333333333 269.75" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+<text x="76" y="278.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">自定义日历</text>
+<text x="76" y="301.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">3个自定义休班日期</text>
+<rect x="24" y="336" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="40" y="355" width="21" height="21" rx="6" fill="#355EDB" stroke="none" stroke-width="1"/>
+<path d="M 44.958333333333336 364.5 L 48.916666666666664 368.4583333333333" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 48.916666666666664 368.4583333333333 L 56.83333333333333 359.75" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round"/>
+<text x="76" y="368.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">应用设置</text>
+<text x="76" y="391.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">外观与主题、提醒默认值、试听偏好</text>
+<rect x="24" y="450" width="364" height="116" rx="16" fill="#FFF1DC" stroke="none" stroke-width="1"/>
+<text x="40" y="479.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#91601F" text-anchor="start">不包含音乐和密钥</text>
+<text x="40" y="502.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">音乐需另外保管。AI密钥、连接配置、系统排程、响铃历史与</text>
+<text x="40" y="519.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">统计不包含在此JSON内。</text>
+<text x="24" y="625.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">建议文件名</text>
+<rect x="24" y="637" width="364" height="56" rx="14" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="40" y="671.7" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="17" font-weight="400" fill="#17243A" text-anchor="start">乐醒备份-2026-10-27.json</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">选择保存位置并导出</text>
+</svg>

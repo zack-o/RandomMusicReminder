@@ -1,0 +1,20 @@
+{
+  "format": "lexing-backup",
+  "version": 1,
+  "settings": null,
+  "events": [],
+  "days": [
+    {
+      "date": "2030-07-01",
+      "type": "REST",
+      "note": "仅为格式示例，不是官方假期；请修改为自己的休假日期后再导入",
+      "source": "演示文件"
+    },
+    {
+      "date": "2030-07-02",
+      "type": "WORK",
+      "note": "仅为格式示例，不是官方补班；请修改为自己的工作日期后再导入",
+      "source": "演示文件"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.gradle/
+.kotlin/
+.idea/
+local.properties
+**/build/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 签名、凭据与本地环境
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+

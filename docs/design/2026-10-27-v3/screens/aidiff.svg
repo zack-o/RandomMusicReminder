@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">核对这次变化</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">当前尚未写入，11月2日起生效</text>
+<rect x="24" y="157" width="364" height="182" rx="20" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="42" y="196.9" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="19" font-weight="600" fill="#17243A" text-anchor="start">晨间起床</text>
+<text x="42" y="239.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#56657C" text-anchor="start">原窗口  08:00–08:10</text>
+<text x="42" y="283.9" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="19" font-weight="600" fill="#355EDB" text-anchor="start">新窗口  07:50–08:00</text>
+<text x="42" y="320.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">1次主提醒，额外提醒仍关闭</text>
+<rect x="24" y="369" width="364" height="172" rx="20" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="42" y="409.9" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="19" font-weight="600" fill="#17243A" text-anchor="start">英语练习</text>
+<text x="42" y="454.7" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="17" font-weight="600" fill="#355EDB" text-anchor="start">事件时间  20:00 → 19:50</text>
+<text x="42" y="498.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">提前10分钟与准时两条规则保留</text>
+<rect x="24" y="590" width="364" height="104" rx="16" fill="#FFF1DC" stroke="none" stroke-width="1"/>
+<text x="40" y="619.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#91601F" text-anchor="start">只应用勾选且可核对的项目</text>
+<text x="40" y="642.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">如果你想改的是提前量，返回修改解释，不直接覆盖现有安</text>
+<text x="40" y="659.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">排。</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">确认应用这2项变化</text>
+</svg>

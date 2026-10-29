@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-27",
+  "fileName": "乐醒 · Penpot迁移验证",
+  "fileId": "e3830491-9fe9-80d8-8008-da25c123978b",
+  "pageId": "e3830491-9fe9-80d8-8008-da25c123978c",
+  "url": "https://design.penpot.app/#/workspace?team-id=cb60386f-5c87-811a-8008-da2065241de6&file-id=e3830491-9fe9-80d8-8008-da25c123978b&page-id=e3830491-9fe9-80d8-8008-da25c123978c",
+  "surface": "Codex side panel",
+  "savedHomeScreen": true,
+  "nativeTextEditingVerified": false,
+  "nativeExportVerified": false,
+  "mcpEnabled": true,
+  "codexConfigurationAdded": true,
+  "configurationBackup": "C:\\Users\\MuYex\\.codex\\config.before-penpot-20261027-122322.toml",
+  "mcpConnectionVerified": false,
+  "mcpBlocker": "Direct and proxy Python clients received Cloudflare 403 / error 1010. No bypass attempted.",
+  "downloadAuthorized": true,
+  "originAccessAuthorizedInChat": true,
+  "downloadBlocker": "User explicitly approved the validation download and reported allowing origin access. Browser tool still denies design.penpot.app due to a saved permission or managed policy. No download has run; do not bypass this gate.",
+  "sourceAsset": "乐醒-提醒首页.svg",
+  "preview": "penpot-imported-home.png",
+  "figmaOriginalPreserved": true,
+  "proxySettingsChanged": false,
+  "applicationCodeChanged": false,
+  "notes": [
+    "Imported SVG retains separate objects; native text editability has not passed verification.",
+    "A separate 100x100 Board appeared during live use. Preserve it; do not assume agent ownership."
+  ]
+}

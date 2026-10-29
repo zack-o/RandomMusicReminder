@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">确认发送这份汇总</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">区间与统计口径一并发送</text>
+<rect x="24" y="157" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="189.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">接收方</text>
+<text x="40" y="212.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">api.deepseek.com · deepseek-flash</text>
+<path d="M 361.5 187.0 L 366.5 192.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 366.5 192.0 L 361.5 197.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="24" y="270" width="364" height="209" rx="18" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="42" y="310.7" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="17" font-weight="600" fill="#17243A" text-anchor="start">选中的汇总</text>
+<text x="42" y="355.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#17243A" text-anchor="start">计划窗口7个</text>
+<text x="42" y="377.25" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#17243A" text-anchor="start">手动结束6次，自动结束1次</text>
+<text x="42" y="399.0" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#17243A" text-anchor="start">自评填写3天，缺失4天</text>
+<text x="42" y="420.75" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#17243A" text-anchor="start">对照：固定08:05 / 随机08:00–08:10</text>
+<rect x="24" y="518" width="364" height="111" rx="16" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="40" y="547.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#355EDB" text-anchor="start">本次问题</text>
+<text x="40" y="570.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">描述停止行为和已有自评，不把手动停止等同清醒，不输出因</text>
+<text x="40" y="587.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">果提升比例。</text>
+<text x="24" y="708.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">不发送事件名称、完整历史、歌曲和Key。</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">确认发送匿名汇总</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">识别到 1 个提醒草稿</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">确认具体规则后，再写入你的事件</text>
+<rect x="24" y="157" width="364" height="150" rx="22" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="44" y="206.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="25" font-weight="600" fill="#17243A" text-anchor="start">英语练习</text>
+<text x="44" y="243.7" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="17" font-weight="600" fill="#355EDB" text-anchor="start">每周二、四 20:00</text>
+<text x="44" y="283.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">从10月27日开始，不设结束日期</text>
+<rect x="24" y="337" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="369.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">2个提醒点</text>
+<text x="40" y="392.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">19:50提前10分钟；20:00准时</text>
+<path d="M 361.5 367.0 L 366.5 372.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 366.5 372.0 L 361.5 377.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="24" y="427" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="459.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">音乐</text>
+<text x="40" y="482.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">沿用全局音乐池</text>
+<path d="M 361.5 457.0 L 366.5 462.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 366.5 462.0 L 361.5 467.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<rect x="24" y="517" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="549.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">将新增 1 个事件</text>
+<text x="40" y="572.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">不会覆盖已有同名事件</text>
+<rect x="24" y="623" width="364" height="105" rx="16" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="40" y="652.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#355EDB" text-anchor="start">需要修改？</text>
+<text x="40" y="675.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">点击相应字段进入正常编辑器，返回后保留这份草稿。未支持</text>
+<text x="40" y="692.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">的规则会明确列出。</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">确认新增这 1 个事件</text>
+</svg>

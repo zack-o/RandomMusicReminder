@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">8:06</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<text x="206.0" y="104.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#355EDB" text-anchor="middle">本次随机提醒</text>
+<text x="206.0" y="206.7" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="67" font-weight="600" fill="#17243A" text-anchor="middle">08:06</text>
+<text x="206.0" y="284.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="32" font-weight="600" fill="#17243A" text-anchor="middle">晨间起床</text>
+<text x="206.0" y="325.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="400" fill="#56657C" text-anchor="middle">选自08:00–08:10，只随机开始1次</text>
+<circle cx="206.0" cy="429.0" r="62.0" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<circle cx="206.0" cy="429.0" r="42.160000000000004" fill="#355EDB" stroke="none" stroke-width="1"/>
+<circle cx="206.0" cy="429.0" r="23.56" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<circle cx="206.0" cy="429.0" r="6.2" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="206.0" y="547.9" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="19" font-weight="600" fill="#17243A" text-anchor="middle">清晨的第一束光</text>
+<text x="206.0" y="584.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="middle">全局随机音乐 · 还有00:43自动结束</text>
+<rect x="24" y="728" width="364" height="64" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="765.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">结束本次提醒</text>
+<text x="206.0" y="839.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="middle">稍后与固定补充均已关闭</text>
+</svg>

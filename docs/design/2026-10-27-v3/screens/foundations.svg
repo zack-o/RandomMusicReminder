@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="800" viewBox="0 0 1120 800">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="48" y="81.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="38" font-weight="600" fill="#17243A" text-anchor="start">乐醒 / 声音与日程的秩序</text>
+<text x="48" y="123.8" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="18" font-weight="400" fill="#56657C" text-anchor="start">雾蓝强调色、清楚的时间、克制的层级。让每次提醒都可理解、可控制。</text>
+<rect x="48" y="183" width="224" height="66" rx="14" fill="#F5F7FB" stroke="#DCE2ED" stroke-width="1"/>
+<text x="48" y="277.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">页面背景</text>
+<text x="172" y="277.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">#F5F7FB</text>
+<rect x="308" y="183" width="224" height="66" rx="14" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="308" y="277.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">内容表面</text>
+<text x="432" y="277.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">#FFFFFF</text>
+<rect x="568" y="183" width="224" height="66" rx="14" fill="#17243A" stroke="#DCE2ED" stroke-width="1"/>
+<text x="568" y="277.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">主要文字</text>
+<text x="692" y="277.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">#17243A</text>
+<rect x="828" y="183" width="224" height="66" rx="14" fill="#56657C" stroke="#DCE2ED" stroke-width="1"/>
+<text x="828" y="277.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">辅助文字</text>
+<text x="952" y="277.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">#56657C</text>
+<rect x="48" y="328" width="224" height="66" rx="14" fill="#355EDB" stroke="#DCE2ED" stroke-width="1"/>
+<text x="48" y="422.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">品牌强调</text>
+<text x="172" y="422.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">#355EDB</text>
+<rect x="308" y="328" width="224" height="66" rx="14" fill="#247B6F" stroke="#DCE2ED" stroke-width="1"/>
+<text x="308" y="422.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">成功</text>
+<text x="432" y="422.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">#247B6F</text>
+<rect x="568" y="328" width="224" height="66" rx="14" fill="#91601F" stroke="#DCE2ED" stroke-width="1"/>
+<text x="568" y="422.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">注意</text>
+<text x="692" y="422.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">#91601F</text>
+<rect x="828" y="328" width="224" height="66" rx="14" fill="#B84444" stroke="#DCE2ED" stroke-width="1"/>
+<text x="828" y="422.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#17243A" text-anchor="start">破坏操作</text>
+<text x="952" y="422.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">#B84444</text>
+<text x="48" y="573.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="52" font-weight="600" fill="#17243A" text-anchor="start">时间  09:50</text>
+<text x="600" y="552.8" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">主要标题  28 / 38</text>
+<text x="600" y="600.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="400" fill="#56657C" text-anchor="start">正文16 / 23；辅助13 / 19</text>
+<text x="48" y="656.0" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="20" font-weight="600" fill="#17243A" text-anchor="start">布局：24边距，8间距单位，48最小触控目标</text>
+<text x="48" y="705.7" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="17" font-weight="400" fill="#56657C" text-anchor="start">区分事件发生时间与提醒触发时间；重要状态同时使用文字、图标和颜色。</text>
+</svg>

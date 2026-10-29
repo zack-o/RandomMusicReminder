@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">这周的随机提醒</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">描述记录，不推导未经验证的唤醒率</text>
+<rect x="24" y="157" width="364" height="144" rx="22" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="44" y="207.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="26" font-weight="600" fill="#17243A" text-anchor="start">7个计划窗口</text>
+<text x="44" y="244.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="400" fill="#56657C" text-anchor="start">6次手动结束，1次自动结束</text>
+<text x="44" y="283.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">只有3天补填了起床感受</text>
+<rect x="24" y="344" width="364" height="112" rx="16" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="40" y="373.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#355EDB" text-anchor="start">能够说明的事实</text>
+<text x="40" y="396.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">6次发生过手动停止操作。不能据此认定6次都成功起床，其余</text>
+<text x="40" y="413.59999999999997" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">4天自评保持未知。</text>
+<rect x="24" y="497" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="529.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">对照条件</text>
+<text x="40" y="552.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">固定08:05，与随机08:00–08:10</text>
+<rect x="24" y="587" width="364" height="78" rx="16" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="40" y="619.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#17243A" text-anchor="start">发送给AI的范围</text>
+<text x="40" y="642.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#56657C" text-anchor="start">只发送已勾选的匿名汇总与统计口径</text>
+<path d="M 361.5 617.0 L 366.5 622.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 366.5 622.0 L 361.5 627.0" fill="none" stroke="#56657C" stroke-width="1.8" stroke-linecap="round"/>
+<text x="24" y="732.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">不自动扩大窗口，也不据此诊断睡眠问题。</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">预览汇总后再发送</text>
+</svg>

@@ -1,0 +1,674 @@
+{
+  "fileId": "04976142-a1f4-5cb6-8ffa-fc9217945d26",
+  "pages": [
+    "798804f6-dd86-5c87-b52b-de52ce39496a",
+    "46646775-124f-5c16-a2ca-4b22973f16e6"
+  ],
+  "mobileBoards": 109,
+  "systemBoards": 2,
+  "nativeShapes": 4388,
+  "nativeTextShapes": 1796,
+  "clickLinks": 451,
+  "zipEntries": 4429,
+  "packageSha256": "d35efac0f5207130fb87f266d55fedb850e0cb3a13c8e9ef5ecdc41cf124e48c",
+  "onlineImportVerified": false,
+  "prototypePlaybackVerified": false,
+  "swipePlaybackVerified": false,
+  "fontNote": "Native text uses Penpot default Source Sans Pro plus system Chinese fallback. Local preview uses Microsoft YaHei and Bahnschrift; inspect font substitution after import.",
+  "screens": [
+    {
+      "key": "windowhome",
+      "title": "首页 · 时间窗随机",
+      "group": "随机时间",
+      "id": "08fd5136-3b0f-5c68-a67a-3aa5ec445ea8"
+    },
+    {
+      "key": "home",
+      "title": "今天的提醒",
+      "group": "提醒",
+      "id": "1557b87c-d85d-5dc8-bf42-4649f976169f"
+    },
+    {
+      "key": "all",
+      "title": "全部事件与管理",
+      "group": "提醒",
+      "id": "f9263f0d-1711-5261-87a0-f1f5c2704a0d"
+    },
+    {
+      "key": "search",
+      "title": "搜索提醒",
+      "group": "提醒",
+      "id": "659a8e5f-2bb4-5740-a642-6718034fbc71"
+    },
+    {
+      "key": "detail",
+      "title": "事件详情",
+      "group": "提醒",
+      "id": "e91ad32f-3969-52fa-abe1-31a167874837"
+    },
+    {
+      "key": "empty",
+      "title": "提醒空白状态",
+      "group": "提醒",
+      "id": "60013f48-55f9-5bfa-9072-dea1911840e5"
+    },
+    {
+      "key": "batch",
+      "title": "事件批量管理",
+      "group": "提醒",
+      "id": "81ec9630-1014-50c0-b88d-bae67dc0050f"
+    },
+    {
+      "key": "basic",
+      "title": "创建 · 基本",
+      "group": "创建",
+      "id": "134ddc72-db14-54f8-ad0b-944ef6ea44e2"
+    },
+    {
+      "key": "repeat",
+      "title": "创建 · 重复",
+      "group": "创建",
+      "id": "bd3871ed-53cf-5991-ba9c-effb0e310aa5"
+    },
+    {
+      "key": "advanced",
+      "title": "创建 · 复杂重复",
+      "group": "创建",
+      "id": "31b52c49-3902-5931-b4ee-703c4662dea7"
+    },
+    {
+      "key": "points",
+      "title": "创建 · 多提醒点",
+      "group": "创建",
+      "id": "a2e2d39f-53a8-57f2-b815-06d396c5d523"
+    },
+    {
+      "key": "pointedit",
+      "title": "编辑提醒点",
+      "group": "创建",
+      "id": "fc5fa677-0e98-5040-af4f-117f653706c0"
+    },
+    {
+      "key": "eventmusic",
+      "title": "创建 · 音乐范围",
+      "group": "创建",
+      "id": "c9eee0ef-9b33-5234-ae49-fd2bd44f7bd9"
+    },
+    {
+      "key": "review",
+      "title": "保存前核对",
+      "group": "创建",
+      "id": "180e3aa5-2abf-50a4-919b-2df1534263c9"
+    },
+    {
+      "key": "date",
+      "title": "日期选择",
+      "group": "创建",
+      "id": "eec04945-6f1e-5126-b58a-517d7d002364"
+    },
+    {
+      "key": "time",
+      "title": "时间选择",
+      "group": "创建",
+      "id": "936f715f-f270-5ad0-b816-22b3701ba91b"
+    },
+    {
+      "key": "music",
+      "title": "音乐库",
+      "group": "音乐",
+      "id": "d3fc9616-b146-5189-92a4-77676d424c74"
+    },
+    {
+      "key": "track",
+      "title": "歌曲详情与歌词",
+      "group": "音乐",
+      "id": "f24db630-3cda-5b43-9463-501dd65ce44b"
+    },
+    {
+      "key": "preview",
+      "title": "音乐试听控制",
+      "group": "音乐",
+      "id": "0b42202f-4537-5685-8849-47a21287e4f6"
+    },
+    {
+      "key": "musicimport",
+      "title": "音乐导入结果",
+      "group": "音乐",
+      "id": "375c906b-89f8-5dbc-b6c6-fa876e50112b"
+    },
+    {
+      "key": "musicbulk",
+      "title": "音乐批量管理",
+      "group": "音乐",
+      "id": "c55bf4e1-fdf7-5d8a-ac67-89c613c75211"
+    },
+    {
+      "key": "random",
+      "title": "随机音乐规则",
+      "group": "音乐",
+      "id": "69ac1b10-39b3-5cdf-954e-7787ec44579d"
+    },
+    {
+      "key": "musicempty",
+      "title": "音乐库空白与备用音",
+      "group": "音乐",
+      "id": "15a7d0c9-fc85-5db2-93f5-6a50523f5fa9"
+    },
+    {
+      "key": "calendar",
+      "title": "日历 · 月视图",
+      "group": "日历",
+      "id": "3db849f7-a9cd-5fc1-a604-c8926fa1a15e"
+    },
+    {
+      "key": "agenda",
+      "title": "日历 · 日程视图",
+      "group": "日历",
+      "id": "691b4942-ee5b-5189-a94f-e24b7e5afecd"
+    },
+    {
+      "key": "triggeragenda",
+      "title": "日历 · 触发时间",
+      "group": "日历",
+      "id": "b29b4d63-138b-543f-b05d-d70b7f78aa98"
+    },
+    {
+      "key": "dayoverride",
+      "title": "日历 · 日期与休班",
+      "group": "日历",
+      "id": "ee357b40-c19c-5dc1-bf84-c66a2a6a38b0"
+    },
+    {
+      "key": "ring",
+      "title": "响铃 · 单事件",
+      "group": "响铃",
+      "id": "cadf1e3b-bb3f-50e4-9387-f8220171a15a"
+    },
+    {
+      "key": "ringmerge",
+      "title": "响铃 · 多事件合并",
+      "group": "响铃",
+      "id": "3bcd39e2-db4b-5ac2-9348-3cc76e06aaa8"
+    },
+    {
+      "key": "snooze",
+      "title": "稍后提醒",
+      "group": "响铃",
+      "id": "6b45c907-4aec-54d9-b0cc-ebc12f24300d"
+    },
+    {
+      "key": "ringdone",
+      "title": "响铃结束反馈",
+      "group": "响铃",
+      "id": "5c892dac-393d-5605-817f-156f0e4f3f2b"
+    },
+    {
+      "key": "settings",
+      "title": "设置中心",
+      "group": "设置",
+      "id": "8df59a76-6aea-5096-be51-102de07edb30"
+    },
+    {
+      "key": "appearance",
+      "title": "外观与主题",
+      "group": "设置",
+      "id": "6cb2ad90-fe1c-5a07-9912-de78a760fc41"
+    },
+    {
+      "key": "permissions",
+      "title": "提醒与运行状态",
+      "group": "设置",
+      "id": "b619d7c0-21e2-5c3d-bac1-57b51649e2e9"
+    },
+    {
+      "key": "defaults",
+      "title": "提醒默认值",
+      "group": "设置",
+      "id": "66d1ca60-e3b2-554d-890d-2507b7c9fb49"
+    },
+    {
+      "key": "history",
+      "title": "响铃历史",
+      "group": "记录",
+      "id": "cc906a73-6f9f-58a3-8259-4ba5307e77d4"
+    },
+    {
+      "key": "historydetail",
+      "title": "响铃历史详情",
+      "group": "记录",
+      "id": "95dfae58-d25f-5441-92ce-bcbac0166cd7"
+    },
+    {
+      "key": "stats",
+      "title": "本地统计",
+      "group": "记录",
+      "id": "51ed098e-3fdf-58ad-8dd3-dbbd9c1ce2a1"
+    },
+    {
+      "key": "ai",
+      "title": "AI助手 · 输入",
+      "group": "AI",
+      "id": "afb73e8b-fa0b-566e-a2ac-69319b0fd10b"
+    },
+    {
+      "key": "aisend",
+      "title": "AI助手 · 发送确认",
+      "group": "AI",
+      "id": "2a6dc453-baa0-52fc-aff2-15a6bbbeb717"
+    },
+    {
+      "key": "aidraft",
+      "title": "AI助手 · 草稿核对",
+      "group": "AI",
+      "id": "00dc9ba2-b9f3-50a7-b467-d9740a31bb21"
+    },
+    {
+      "key": "aiconfig",
+      "title": "AI连接配置",
+      "group": "AI",
+      "id": "e8f52d55-0a29-5be7-9ebc-ed9b04e4accf"
+    },
+    {
+      "key": "data",
+      "title": "备份与恢复",
+      "group": "数据",
+      "id": "dceb1b79-5ea8-5651-b35b-af1c9ea4dd9d"
+    },
+    {
+      "key": "export",
+      "title": "数据导出范围",
+      "group": "数据",
+      "id": "06dba9de-7d94-516a-b287-4c4a45cb3180"
+    },
+    {
+      "key": "import",
+      "title": "数据导入预览",
+      "group": "数据",
+      "id": "baecaaf7-4f1e-57dc-a988-6fc1cd827cc4"
+    },
+    {
+      "key": "importdone",
+      "title": "导入结果与恢复入口",
+      "group": "数据",
+      "id": "21604068-a0e0-58f4-bb42-f847336c32c4"
+    },
+    {
+      "key": "dark",
+      "title": "提醒 · 深色主题",
+      "group": "提醒",
+      "id": "8f70c1b7-c3b5-54f6-b3da-9aaf236d299c"
+    },
+    {
+      "key": "confirm",
+      "title": "删除音乐确认",
+      "group": "状态",
+      "id": "e8fe90e0-fa28-5b9e-a7cf-c9321d98983a"
+    },
+    {
+      "key": "unsaved",
+      "title": "离开未保存内容",
+      "group": "状态",
+      "id": "aa212797-64cd-557f-b765-287408bb13f7"
+    },
+    {
+      "key": "skip",
+      "title": "跳过本次确认",
+      "group": "状态",
+      "id": "1284eb8b-19cb-5147-adef-768306efe664"
+    },
+    {
+      "key": "applyall",
+      "title": "批量应用提醒点参数",
+      "group": "状态",
+      "id": "471e3a29-cf54-5bbb-8515-5789f992595b"
+    },
+    {
+      "key": "recovery",
+      "title": "导入前快照与恢复",
+      "group": "数据",
+      "id": "e8488421-c678-5957-a68d-76c20c1f015c"
+    },
+    {
+      "key": "permissionshelp",
+      "title": "权限处理说明",
+      "group": "设置",
+      "id": "402c79a3-f5cf-57ea-b180-3e4f32e0b25e"
+    },
+    {
+      "key": "statsprivacy",
+      "title": "统计范围与隐私",
+      "group": "记录",
+      "id": "338f60ed-efc0-58cd-a705-43de19bccf86"
+    },
+    {
+      "key": "settingsreview",
+      "title": "导入设置独立确认",
+      "group": "数据",
+      "id": "a53c6f24-03db-5008-bd73-29eaaf096079"
+    },
+    {
+      "key": "aiadvanced",
+      "title": "AI高级参数与失败状态",
+      "group": "AI",
+      "id": "ab5ca61f-e4b2-5ee8-9c7d-37f23d27eb45"
+    },
+    {
+      "key": "large",
+      "title": "大字体与长标题",
+      "group": "状态",
+      "id": "55c923ae-d76f-54e2-b03f-4cf710f6c36f"
+    },
+    {
+      "key": "interval",
+      "title": "重复 · 每N个日历日",
+      "group": "创建",
+      "id": "6cd33340-7130-514d-bab2-7b05024f74f6"
+    },
+    {
+      "key": "yearly",
+      "title": "重复 · 每年与缺日",
+      "group": "创建",
+      "id": "b87252f4-83d7-5c70-83d4-e48e5e6d4c65"
+    },
+    {
+      "key": "holiday",
+      "title": "重复 · 日历策略",
+      "group": "创建",
+      "id": "dbeabf41-c64d-5627-baba-19b277969341"
+    },
+    {
+      "key": "validation",
+      "title": "创建 · 校验与修正",
+      "group": "状态",
+      "id": "ac73eb0f-6b8b-5188-9aed-ed889a8eed3e"
+    },
+    {
+      "key": "lyrics",
+      "title": "音乐 · 时间轴歌词",
+      "group": "音乐",
+      "id": "370dd038-0aac-565e-a519-a6324de9d710"
+    },
+    {
+      "key": "musicissues",
+      "title": "音乐 · 停用与失效",
+      "group": "音乐",
+      "id": "c60e7298-9fa4-50f2-bb2a-299c9ce8c0d5"
+    },
+    {
+      "key": "aifailure",
+      "title": "AI · 失败与保留输入",
+      "group": "AI",
+      "id": "c08a0b1a-bc7a-5b0b-9e57-0e5ea6a34216"
+    },
+    {
+      "key": "importerror",
+      "title": "导入 · 无法读取文件",
+      "group": "数据",
+      "id": "46a43253-446d-5a1c-8dc8-4e4693216e4d"
+    },
+    {
+      "key": "notification",
+      "title": "通知中的提醒",
+      "group": "响铃",
+      "id": "ec7bd00f-5076-5804-b6a6-b8f43ca101fb"
+    },
+    {
+      "key": "mergedhistory",
+      "title": "历史 · 合并会话明细",
+      "group": "记录",
+      "id": "1b0e29c4-3b29-5fc8-baa0-dd64da44e843"
+    },
+    {
+      "key": "about",
+      "title": "关于与数据边界",
+      "group": "设置",
+      "id": "b74b5130-873a-5fb0-bb93-9c059ba1aaed"
+    },
+    {
+      "key": "undopreview",
+      "title": "撤销导入影响预览",
+      "group": "数据",
+      "id": "0ec8289d-7cca-5371-b2e1-085356eb5bf8"
+    },
+    {
+      "key": "windowbasic",
+      "title": "创建 · 随机时间范围",
+      "group": "随机时间",
+      "id": "da7675b4-f84a-5b9f-a8e1-dc94e0c358ee"
+    },
+    {
+      "key": "windowrepeat",
+      "title": "创建 · 随机窗口重复",
+      "group": "随机时间",
+      "id": "d10af68c-4fe8-59e4-bc94-c4bdb1af5dbf"
+    },
+    {
+      "key": "windowalert",
+      "title": "创建 · 严格一次模式",
+      "group": "随机时间",
+      "id": "ec7527af-7f75-55c1-9eb2-e5926da45a92"
+    },
+    {
+      "key": "windowreview",
+      "title": "随机提醒 · 保存核对",
+      "group": "随机时间",
+      "id": "89ffe7cc-5ffd-5a0b-82b0-0ec6c18a8087"
+    },
+    {
+      "key": "windowreveal",
+      "title": "随机提醒 · 查看已选时刻",
+      "group": "随机时间",
+      "id": "07a2dc5a-6eab-5d9a-85cd-fea07f4058fb"
+    },
+    {
+      "key": "windowpartial",
+      "title": "随机窗口 · 已开始或错过",
+      "group": "随机时间",
+      "id": "1ffdc064-084b-5275-bf17-62e9887f21da"
+    },
+    {
+      "key": "windowcross",
+      "title": "随机窗口 · 跨午夜",
+      "group": "随机时间",
+      "id": "1c9f7119-e349-59e7-8e62-8ecb6335e192"
+    },
+    {
+      "key": "windowconversion",
+      "title": "固定多点与随机模式切换",
+      "group": "随机时间",
+      "id": "0f7c6a04-4078-5ab7-9819-abb94e8a4787"
+    },
+    {
+      "key": "windowextras",
+      "title": "随机提醒 · 可选额外动作",
+      "group": "随机时间",
+      "id": "0a7401fb-e2a9-5993-9fbe-deb88473efc3"
+    },
+    {
+      "key": "windowhistory",
+      "title": "随机提醒 · 历史明细",
+      "group": "随机时间",
+      "id": "bac0bae1-50da-599f-aa97-134adf7b9875"
+    },
+    {
+      "key": "windowbenefit",
+      "title": "随机提醒 · 功能解释",
+      "group": "随机时间",
+      "id": "ede81b68-547d-5efa-90f1-3f190af5ff34"
+    },
+    {
+      "key": "windowring",
+      "title": "响铃 · 随机窗口一次",
+      "group": "随机时间",
+      "id": "58bdbc4c-6dc9-5780-8386-bc165eb8605d"
+    },
+    {
+      "key": "windowactive",
+      "title": "首页 · 窗口进行中",
+      "group": "随机时间",
+      "id": "edf84694-9d5e-5ec6-921e-e7457006b5d5"
+    },
+    {
+      "key": "aihub",
+      "title": "AI工作台 · 软件任务",
+      "group": "AI扩展",
+      "id": "179d0cb0-d993-56d6-8a0b-90ebf7e508fa"
+    },
+    {
+      "key": "aiproviders",
+      "title": "AI接入 · 服务商选择",
+      "group": "AI扩展",
+      "id": "844f1ad4-f237-540a-b182-9a6de55d3c99"
+    },
+    {
+      "key": "aikey",
+      "title": "AI接入 · Key快速设置",
+      "group": "AI扩展",
+      "id": "4b346c97-a66c-54d5-86ab-0b4df07c745c"
+    },
+    {
+      "key": "aiconnecttest",
+      "title": "AI接入 · 测试确认",
+      "group": "AI扩展",
+      "id": "b574430c-e9a7-583b-8a8f-bf83f619ba79"
+    },
+    {
+      "key": "aicontext",
+      "title": "AI创建 · 意图与范围",
+      "group": "AI扩展",
+      "id": "0ac56736-eb8a-54f2-a4e1-e389a083849a"
+    },
+    {
+      "key": "aipreview",
+      "title": "AI请求 · 发送内容核对",
+      "group": "AI扩展",
+      "id": "18f9db97-146e-5cd5-8215-13322607f7b3"
+    },
+    {
+      "key": "aiwindowdraft",
+      "title": "AI结果 · 随机窗口草稿",
+      "group": "AI扩展",
+      "id": "831fa062-aed4-5a92-a76a-4154f031cc4d"
+    },
+    {
+      "key": "aiambiguity",
+      "title": "AI消歧 · 不确定就先问",
+      "group": "AI扩展",
+      "id": "1e448dc0-f032-5f66-b76a-7194037d0df3"
+    },
+    {
+      "key": "aibatch",
+      "title": "AI批量 · 显式选择对象",
+      "group": "AI扩展",
+      "id": "4f1877ca-1b08-5f0c-bbfa-2fb62fbb1186"
+    },
+    {
+      "key": "aieditscope",
+      "title": "AI修改 · 作用日期与对象",
+      "group": "AI扩展",
+      "id": "b84b0023-13c1-5def-a829-005c7a31c6b8"
+    },
+    {
+      "key": "aidiff",
+      "title": "AI修改 · 逐字段差异",
+      "group": "AI扩展",
+      "id": "adb30520-7a2f-5b54-bdc2-7d07cdd10cae"
+    },
+    {
+      "key": "aiexplain",
+      "title": "AI解释 · 有事实依据",
+      "group": "AI扩展",
+      "id": "e9ce1f30-30cf-51ac-bb9d-4d6b797d96e7"
+    },
+    {
+      "key": "aiconflict",
+      "title": "AI协助 · 可能与确定重合",
+      "group": "AI扩展",
+      "id": "ee0c3ced-f7bc-5433-9267-23a10a8c3ff4"
+    },
+    {
+      "key": "aimusic",
+      "title": "AI音乐建议 · 所选元信息",
+      "group": "AI扩展",
+      "id": "6b836d6e-cfcf-5733-890b-2ba19f9afd4d"
+    },
+    {
+      "key": "aiimporthelp",
+      "title": "AI导入辅助 · 原因摘要",
+      "group": "AI扩展",
+      "id": "79b22fb6-1378-51e7-b542-cbc08687cd55"
+    },
+    {
+      "key": "aiinsight",
+      "title": "AI汇总 · 使用观察边界",
+      "group": "AI扩展",
+      "id": "761ab2b9-5965-5f7b-a134-d7836f72bd65"
+    },
+    {
+      "key": "aicost",
+      "title": "AI管理 · 调用与费用边界",
+      "group": "AI扩展",
+      "id": "25ecdf03-f310-5bda-b309-1902bac8eb2b"
+    },
+    {
+      "key": "ailedger",
+      "title": "AI操作记录 · 结果与撤销",
+      "group": "AI扩展",
+      "id": "0a84b9ed-1423-5543-a2e6-1644c9814c2c"
+    },
+    {
+      "key": "aifailures",
+      "title": "AI接入 · 失败状态分类",
+      "group": "AI扩展",
+      "id": "bc521ac7-dc10-5363-b974-1115f6f04421"
+    },
+    {
+      "key": "aiconnectok",
+      "title": "AI接入 · 测试成功",
+      "group": "AI扩展",
+      "id": "74de4a83-a306-57de-80b2-97d466630307"
+    },
+    {
+      "key": "aibailian",
+      "title": "AI接入 · 地域与模型",
+      "group": "AI扩展",
+      "id": "f3fc33da-6249-5301-9550-90e6472044af"
+    },
+    {
+      "key": "aiprofileadvanced",
+      "title": "AI接入 · 预设高级配置",
+      "group": "AI扩展",
+      "id": "68969759-718a-57b2-ab30-50064d9d2b93"
+    },
+    {
+      "key": "aimusicpreview",
+      "title": "AI发送 · 音乐元信息",
+      "group": "AI扩展",
+      "id": "c2f64967-252b-5ab6-9cda-dcaa26d82a31"
+    },
+    {
+      "key": "aimusicresult",
+      "title": "AI音乐结果 · 候选分组",
+      "group": "AI扩展",
+      "id": "4a583b47-c3d2-5f4b-9620-d35f1f6e59cd"
+    },
+    {
+      "key": "aistatspreview",
+      "title": "AI发送 · 匿名汇总",
+      "group": "AI扩展",
+      "id": "17d4eb61-9008-517b-87cc-3a4bba210727"
+    },
+    {
+      "key": "aieditpreview",
+      "title": "AI发送 · 修改范围摘要",
+      "group": "AI扩展",
+      "id": "e24d6697-0c20-53c2-af36-a57fdce44cbb"
+    },
+    {
+      "key": "aiundopreview",
+      "title": "AI撤销 · 保护后续修改",
+      "group": "AI扩展",
+      "id": "8d91feb2-7c8e-5b4a-87a5-909d23f01710"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="892" viewBox="0 0 412 892">
+<rect width="100%" height="100%" fill="#F5F7FB"/>
+<text x="24" y="31.400000000000002" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#17243A" text-anchor="start">9:41</text>
+<rect x="354" y="20" width="25" height="11" rx="3" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="382" y="23" width="3" height="5" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="328" y="27" width="3" height="4" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="333" y="24" width="3" height="7" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<rect x="338" y="21" width="3" height="10" rx="1" fill="#17243A" stroke="none" stroke-width="1"/>
+<path d="M 37.0 72.0 L 29.0 80.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M 29.0 80.0 L 37.0 88.0" fill="none" stroke="#17243A" stroke-width="1.8" stroke-linecap="round"/>
+<text x="58" y="92.80000000000001" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="28" font-weight="600" fill="#17243A" text-anchor="start">通知提醒形态</text>
+<text x="24" y="125.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">无法全屏呈现时，仍提供明确操作</text>
+<rect x="16" y="196" width="380" height="229" rx="26" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<rect x="38.166666666666664" y="220.83333333333334" width="11.666666666666668" height="10.0" rx="5.0" fill="#FFFFFF" stroke="#355EDB" stroke-width="1"/>
+<path d="M 37.333333333333336 230.83333333333334 L 50.66666666666667 230.83333333333334" fill="none" stroke="#355EDB" stroke-width="1.8" stroke-linecap="round"/>
+<circle cx="44.0" cy="234.16666666666666" r="1.6666666666666667" fill="#355EDB" stroke="none" stroke-width="1"/>
+<text x="64" y="229.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">乐醒  ·  现在</text>
+<text x="36" y="285.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="22" font-weight="600" fill="#17243A" text-anchor="start">项目周会</text>
+<text x="36" y="317.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="400" fill="#56657C" text-anchor="start">10:00开始，提前10分钟提醒</text>
+<text x="36" y="379.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#355EDB" text-anchor="start">结束本次</text>
+<text x="215" y="379.5" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="15" font-weight="600" fill="#355EDB" text-anchor="start">稍后10分钟</text>
+<rect x="24" y="505" width="364" height="109" rx="16" fill="#E9EEFF" stroke="none" stroke-width="1"/>
+<text x="40" y="534.4" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="14" font-weight="600" fill="#355EDB" text-anchor="start">点击通知正文</text>
+<text x="40" y="557.2" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">打开响铃详情；动作名称与全屏提醒保持一致。锁屏是否展示</text>
+<text x="40" y="574.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="12" font-weight="400" fill="#17243A" text-anchor="start">内容取决于系统设置。</text>
+<text x="24" y="714.3" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="13" font-weight="400" fill="#56657C" text-anchor="start">这是通知内容设计示意，外框样式由系统决定。</text>
+<rect x="24" y="804" width="364" height="56" rx="18" fill="#FFFFFF" stroke="#DCE2ED" stroke-width="1"/>
+<text x="206.0" y="837.6" font-family="Microsoft YaHei,Noto Sans SC,sans-serif" font-size="16" font-weight="600" fill="#355EDB" text-anchor="middle">查看完整响铃页</text>
+</svg>

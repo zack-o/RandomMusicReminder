@@ -1,0 +1,40 @@
+{
+  "result": "PASS",
+  "errors": [],
+  "warnings": [],
+  "archiveCrc": true,
+  "jsonEntries": 2996,
+  "pages": 2,
+  "mobileBoards": 68,
+  "systemBoards": 2,
+  "shapeTypes": {
+    "frame": 72,
+    "text": 1203,
+    "rect": 1123,
+    "circle": 160,
+    "path": 399
+  },
+  "nativeTextShapes": 1203,
+  "clickLinks": 299,
+  "minimumClickTarget": 48,
+  "outOfBounds": [],
+  "textBoxOverlaps": [],
+  "pngs": 70,
+  "svgs": 70,
+  "sampleContrastRatios": {
+    "light text/background": 14.5,
+    "light secondary/paper": 5.92,
+    "primary button": 5.56,
+    "light emphasis/pale": 4.8,
+    "dark text/background": 16.09,
+    "dark secondary/paper": 7.86,
+    "dark button": 8.93,
+    "error/light background": 4.63
+  },
+  "packageSha256": "907fce261f95883c7dc34723dffaaeea889196a065554bcf6e005bc01e69e4ec",
+  "onlineImportVerified": false,
+  "prototypePlaybackVerified": false,
+  "swipePlaybackVerified": false,
+  "androidBuildRun": false,
+  "deviceTestsRun": false
+}
