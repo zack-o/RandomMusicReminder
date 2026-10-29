@@ -1,5 +1,17 @@
 # 乐醒
 
+## 下载与发布版本
+
+[查看全部发布版本](https://github.com/zack-o/RandomMusicReminder/releases)
+
+| 版本 | 发布日期 | 系统要求 | 下载 |
+|---|---|---|---|
+| [v0.15.0 预览版](https://github.com/zack-o/RandomMusicReminder/releases/tag/v0.15.0) | 2026-10-29 | Android 8.0 及以上 | [下载 APK](https://github.com/zack-o/RandomMusicReminder/releases/download/v0.15.0/Lexing-0.15.0-preview.apk) · [SHA256 校验文件](https://github.com/zack-o/RandomMusicReminder/releases/download/v0.15.0/SHA256SUMS.txt) |
+
+0.15.0 新增连续日期暂停与恢复，支持保留临时班次、确认冲突后加入草稿；完整功能与验证范围见下方版本记录及 Release 说明。
+
+当前安装包使用 Android Debug 签名，作为开发预览版提供。安装后按需授予通知、闹钟和后台运行权限；更新前请先导出备份，覆盖安装要求包名、签名一致且版本号不降低。新版功能的设备端回归、实际出声、震动与锁屏后台表现仍待验证。
+
 开发、离线验证与设备验收边界见 [AGENTS.md](AGENTS.md)。
 
 日常使用请看[乐醒使用说明与功能介绍（适用0.15.0）](docs/乐醒-使用说明与功能介绍.md)，包含快速上手、轮班、单日和区间调整、随机提醒、音乐与震动、待办完成、AI和备份说明。
